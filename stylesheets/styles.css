@@ -79,6 +79,7 @@ ul{
     align-items: center;
     flex-direction: column;
     color: white;
+    padding: 0;
 }
 
 .soldados{
